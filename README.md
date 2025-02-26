@@ -1,13 +1,11 @@
 # Daniel Andres Labra Silva
 
 📧 d.labrasilva@gmail.com  
-🏠 Montreal, Quebec
-
 ---
 
 ## 🚀 Career Summary
 
-Experienced in both agile and traditional methodologies, with a background in developing applications using .NET Core, ASP.NET with C#. Proficient in working with Oracle and SQL Server databases. Skilled in performing analysis and development tasks across various projects.
+Full Stack Developer with over 7 years of experience in designing, developing, and migrating applications using .NET Core, ASP.NET, Node.js, and 2 years working with Angular. Experience in building APIs, microservices, and cloud solutions (Azure). I have led development teams, optimized application performance, and improved unit test coverage. Worked on projects for clients such as Disney Media, United Airlines, Electronic Arts and others.
 
 ---
 
