@@ -69,7 +69,6 @@ Full Stack Developer with over 7 years of experience in designing, developing, a
 ## 🎓 Education
 
 **Andres Bello University**  
-**Dates:** Jan. 2010 -- Mar. 2015  
 **Degree:** Software Engineering
 
 **Scrum Foundation Professional -- SFPC**  
